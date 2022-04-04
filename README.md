@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Java developer who is passionate about creating solutions using best practices. I am currently working on an e-commerce app, developed using spring mvc.
 <!--
 **IsiomaAghaulor/IsiomaAghaulor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
